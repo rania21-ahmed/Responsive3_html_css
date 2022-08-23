@@ -1,0 +1,11 @@
+#landing .landing-imges
+{
+    background-image:url('photo/top.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+    height:50vh;
+    flex:0 1 50vw;
+    margin:0;
+    overflow: hidden;
+}
